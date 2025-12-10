@@ -33,7 +33,6 @@
 ## My Stats
 <p>
 <a href="https://github.com/suleyman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suleyman&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suleyman&theme=radical&layout=compact" />
 </a>
 </p>
