@@ -1,7 +1,3 @@
-### Hi there 👋
-
-## I'm Süleyman.
-
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring modern web & mobile technologies while building scalable digital products.
